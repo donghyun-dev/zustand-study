@@ -1,0 +1,17 @@
+.counter {
+    width: 300px;
+    padding: 15px;
+    margin: 10px 20px;
+    border: 1px solid
+}
+
+.counterText {
+   font-size: 28px;
+   text-align: center;
+}
+
+.CtrlBtn {
+    width: calc(94% / 3);
+    margin: 3px;
+    font-size: 20px;
+}
